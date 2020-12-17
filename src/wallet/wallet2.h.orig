@@ -993,7 +993,7 @@ class wallet2
 	/*!
      * \brief  Set the label of the given tag.
      * \param  tag            Tag's name (which must be non-empty).
-     * \param  description    Tag's description.
+     * \param  label          Tag's description.
      */
 	void set_account_tag_description(const std::string& tag, const std::string& description);
 
